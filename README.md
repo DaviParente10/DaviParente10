@@ -15,7 +15,7 @@
 
 ## 🧑‍💻 Sobre mim
 
-Trabalho como **Consultor de Tecnologia** com foco em **infraestrutura de TI**, atuando com o ecossistema **IBM Power Systems e AIX**. Antes disso, passei mais de dois anos no **suporte técnico N2**, atendendo cerca de **500 usuários** entre matriz e filial, com **99% de satisfação** nas avaliações.
+Trabalho como **Consultor de Tecnologia** com foco em **infraestrutura de TI**, atuando com o ecossistema **IBM Power Systems e AIX**. Antes disso, passei mais de dois anos no **suporte técnico N2**, atendendo cerca de **500 usuários** entre matriz e filial, com **99% de satisfação** nas avaliações de atendimento.
 
 Nessa jornada também:
 
