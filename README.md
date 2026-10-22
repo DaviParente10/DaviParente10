@@ -55,7 +55,6 @@ Nessa jornada também:
 - 🔵 **IBM Power e AIX** – administração, LVM e virtualização
 - 🤖 **AI on Power** – curso da IBM e laboratórios no IBM TechZone
 - 🐧 **Linux** – systemd, redes, shell script e análise de desempenho
-- 🎯 **Próxima meta:** certificação **LPIC-1**
 
 ## 🚀 Projetos em destaque
 
