@@ -60,5 +60,5 @@ Nessa jornada também:
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
-| [**NOME-DO-PROJETO**](https://github.com/DaviParente10/NOME-DO-REPOSITORIO) | Uma frase dizendo o que o projeto faz e qual problema resolve. | Tecnologia 1 · Tecnologia 2 |
+| [**NOME-DO-PROJETO**](https://github.com/DaviParente10/NOME-DO-REPOSITORIO) | Lab de Ansible: provisionamento de Apache, MariaDB, PHP e WordPress em Ubuntu e CentOS Stream 10 com roles, templates, handlers e Ansible Vault. | Ansible |
 
