@@ -60,5 +60,6 @@ Nessa jornada também:
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
-| [**NOME-DO-PROJETO**](https://github.com/DaviParente10/NOME-DO-REPOSITORIO) | Lab de Ansible: provisionamento de Apache, MariaDB, PHP e WordPress em Ubuntu e CentOS Stream 10 com roles, templates, handlers e Ansible Vault. | Ansible |
+| [**Lab de Ansible**](https://github.com/DaviParente10/curso-ansible) | Lab de Ansible: provisionamento de Apache, MariaDB, PHP e WordPress em Ubuntu e CentOS Stream 10 com roles, templates, handlers e Ansible Vault. | Ansible |
+| [**Projeto Certificado MySQL - SENAI**](https://github.com/DaviParente10/projeto-DBA) | Criação de banco de dados com modelo lógico, físico, triggers, procedures e functions para certificado Administrador de Banco de Dados - SENAI/DF. | MySQL |
 
